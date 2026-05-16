@@ -1,5 +1,6 @@
 A HISTORIA DE JOHN CONNOR 
 PRIMEIRA FRASE:
+ALTERANDO A PRIMEIRA LINHA DO ARQUIVO
 
 eu sou john connor, lider da resistencia contra as maquinas
 eu sou amigo do T-800
